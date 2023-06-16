@@ -3,7 +3,7 @@
 Carpeta 1: Lunes
 Está carpeta contiene tres archivos.
 
---NOTEBOOK 1--
+--NOTEBOOK 1-- Escribiendo tu Primer Código en Python
 - Escribiendo tu Primer Código en Python
 - ¿Qué versión de Python estamos usando?
 - Comentarios
@@ -48,3 +48,23 @@ Está carpeta contiene tres archivos.
 - Ejercicios
   
 En estos bloque hay información sobre los pirmieros trabajo en Python
+
+--NOTEBOOK 4-- VISUALIZACIÒN DE DATOS
+- Importación de librería
+
+--NOTEBOOK-- FUNCIONES
+- Para qué necesito funciones
+- Definir una función
+- Invocar una función
+- Argumentos y parámetros
+- Especificar parámetros con valores por defecto
+- Reunir/Desplegar argumentos posicionales
+- Documentación
+- Las funciones también son objetos
+- Variables globales
+
+--NOTEBOOK 9-- SERIES
+-Ejercicios
+
+--NOTEBOOK 10-- PANDAS
+- Ejercicios
