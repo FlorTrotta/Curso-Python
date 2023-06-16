@@ -52,7 +52,7 @@ En estos bloque hay información sobre los pirmieros trabajo en Python
 --NOTEBOOK 4-- VISUALIZACIÒN DE DATOS
 - Importación de librería
 
---NOTEBOOK-- FUNCIONES
+--NOTEBOOK 5-- FUNCIONES
 - Para qué necesito funciones
 - Definir una función
 - Invocar una función
@@ -62,6 +62,15 @@ En estos bloque hay información sobre los pirmieros trabajo en Python
 - Documentación
 - Las funciones también son objetos
 - Variables globales
+
+--NOTEBOOK 6-- BUCLES
+- Repetir con while
+- Bucle Infinito
+- Continuar un bucle
+- Iterar con for
+- Generar secuencias de números
+- Bucles anidados
+- Cuestionario sobre Bucles
 
 --NOTEBOOK 9-- SERIES
 -Ejercicios
